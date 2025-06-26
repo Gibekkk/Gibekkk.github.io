@@ -1,6 +1,6 @@
 ---
 title: Regresi Linier Sederhana - Konsep Dasar dan Estimasi
-author: KingPublic
+author: Gibekkk
 date: 2025-05-25 14:00:00 +0800
 categories: [Statistika, Regresi]
 tags: [regresi linier, regresi sederhana, model probabilistik, estimasi parameter, least squares, koefisien regresi]

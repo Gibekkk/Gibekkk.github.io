@@ -1,6 +1,6 @@
 ---
 title: Memahami Distribusi Data dan Distribusi Normal
-author: KingPublic
+author: Gibekkk
 date: 2025-05-27 09:00:00 +0800
 categories: [Statistika, Dasar]
 tags: [distribusi data, distribusi normal, histogram, boxplot, qq plot, skewness, kurtosis]

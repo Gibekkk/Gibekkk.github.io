@@ -1,6 +1,6 @@
 ---
 title: Praktikum 1 - Pengenalan R dan Statistika Deskriptif
-author: KingPublic
+author: Gibekkk
 date: 2025-03-02 22:41:00 +0800
 categories: [Praktikum, R]
 tags: [r programming, instalasi, statistika deskriptif]

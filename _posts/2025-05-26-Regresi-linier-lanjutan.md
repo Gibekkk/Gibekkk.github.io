@@ -1,6 +1,6 @@
 ---
 title: Regresi Linier Lanjutan - Inferensi, Model Multipel, dan Variabel Kategori
-author: KingPublic
+author: Gibekkk
 date: 2025-05-26 10:00:00 +0800
 categories: [Statistika, Regresi]
 tags: [regresi multipel, uji t, uji F, anova regresi, variabel dummy, koefisien determinasi, r-squared]

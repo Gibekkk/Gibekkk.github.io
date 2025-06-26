@@ -1,6 +1,6 @@
 ---
 title: Pengantar Pengujian Hipotesis Statistik
-author: KingPublic
+author: Gibekkk
 date: 2025-05-22 10:00:00 +0800
 categories: [Statistika, Dasar]
 tags: [hipotesis, statistika inferensial, populasi, sampel, uji statistik]

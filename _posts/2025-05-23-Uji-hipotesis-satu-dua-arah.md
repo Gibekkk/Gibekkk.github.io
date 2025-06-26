@@ -1,6 +1,6 @@
 ---
 title: Uji Hipotesis Satu Arah (One-Tailed) dan Dua Arah (Two-Tailed)
-author: KingPublic
+author: Gibekkk
 date: 2025-05-23 11:00:00 +0800
 categories: [Statistika, Dasar]
 tags: [hipotesis, one-tailed, two-tailed, t-test, z-test, p-value, excel]

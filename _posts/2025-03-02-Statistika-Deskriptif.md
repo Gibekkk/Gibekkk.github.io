@@ -1,6 +1,6 @@
 ---
 title: Statistika Deskriptif - Ukuran Pemusatan
-author: KingPublic
+author: Gibekkk
 date: 2025-03-02 22:42:00 +0800
 categories: [Statistika, Dasar]
 tags: [statistika deskriptif, mean, median, modus]
